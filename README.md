@@ -6,21 +6,21 @@ Adept at conducting pre-project analysis, technical assessments, and implementin
 Track record of collaborating with cross-functional teams and providing production support to ensure the smooth functioning of applications.
 Strong understanding of micro-front-end architecture, continuous integration and deployment (CI/CD) processes, and project management. Holds a Bachelor of Engineering degree from Shivaji University.
 
-TECH STACK:
-	Web technologies: Angular (2+), HTML5, CSS3, JavaScript, TypeScript, JQuery, Bootstrap4, React
-	Database: MySQL
-	Charting Library: D3.js Chart.js
-	UX Tool: blnq studio
-	Component Library: Material, Prime-ng, Prime-react, AG-Grid
-	Editors: Visual Studio Code, Eclipse, STS
-	Version Control System: Git, TFS
-	Defect Tracking Tool: Redmine, Jira
+ #### Tech Stack: ####
+* Web technologies: Angular (2+), HTML5, CSS3, JavaScript, TypeScript, JQuery, Bootstrap4, React
+* Database: MySQL
+* Charting Library: D3.js Chart.js
+* UX Tool: blnq studio
+* Component Library: Material, Prime-ng, Prime-react, AG-Grid
+* Editors: Visual Studio Code, Eclipse, STS
+* Version Control System: Git, TFS
+* Defect Tracking Tool: Redmine, Jira
 
-Responsibilities:
-Developing new user-facing features using Angular and react.js.
-Building reusable components and front-end libraries for future use.
-Translating designs into high quality code.
-Optimizing components for maximum performance Optimizing performance of the application. 
-Troubleshooting the bugs.
-Regular code reviews, continuous integration, and automated testing can help maintain the quality and stability of your codebase. 
-Keep up with the latest updates in both Angular and React.js to leverage the best practices and features for your development process.
+ #### Responsibilities: ####
+* Developing new user-facing features using Angular and react.js.
+* Building reusable components and front-end libraries for future use.
+* Translating designs into high quality code.
+* Optimizing components for maximum performance Optimizing performance of the application. 
+* Troubleshooting the bugs.
+* Regular code reviews, continuous integration, and automated testing can help maintain the quality and stability of your codebase. 
+* Keep up with the latest updates in both Angular and React.js to leverage the best practices and features for your development process.
